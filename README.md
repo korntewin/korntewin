@@ -1,6 +1,8 @@
-### Hi there 👋
-I'm currently working at Blockfint as Business Analyst on energy trading software `Gideon`.  
-Also, I am interested in *IoT*, *Optimization*, *Machine Learning*, *coding* and *technolgy stack*!
+### Hello there 👋
+## Welcome to my github profile :handshaking:
+I'm currently working at Blockfint as Business Analyst on energy trading software `Gideon` to enhance and utilize the solar energy :sunny: in household level and make the world greener 🌱.  
+  
+  💬 Also, I am interested in *IoT*, *Optimization*, *Machine Learning*, *coding* and *technolgy stack*!
 
 <!--
 **korntewin/korntewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
