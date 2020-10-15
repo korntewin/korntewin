@@ -2,7 +2,7 @@
 #### Welcome to my github profile :pray:
 I'm currently working at Blockfint as Business Analyst on energy trading software `Gideon` to enhance and utilize the solar energy :sunny: in household level and make the world greener 🌱.  
   
-  💬 I also interested in *IoT*, *Optimization*, *Machine Learning*, *coding* and *technolgy stack*!  
+  💬 I am also interested in *IoT*, *Optimization*, *Machine Learning*, *coding* and *technolgy stack*!  
   
   ---
   
