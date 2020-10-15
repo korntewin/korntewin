@@ -5,7 +5,7 @@ I'm currently working at Blockfint as Business Analyst on energy trading softwar
   💬 I also interested in *IoT*, *Optimization*, *Machine Learning*, *coding* and *technolgy stack*!  
   
   
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24297648" height="10%" width="10%">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24297648" height="7%" width="7%">
 <!--
 **korntewin/korntewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
