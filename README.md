@@ -7,7 +7,7 @@ I'm currently working at Blockfint as Technical and Business Analyst on energy t
 <a href="https://www.linkedin.com/in/korntewin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://korntewin-b.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>  
 
-### Interest and hobby  <img align="right" width="280" height="280" src="https://drive.google.com/uc?export=view&id=15FHRndMrZXdj9ZUsUH69TgGcCu-NUHcb">
+### Interest and hobby  <img align="right" width="280" height="280" src="./figs/dahon%20route.jpg">
 
 * I love biking with my favourite folding bike `dahon route`. Actually, I ride forth and back to working office around 20 km per day 🚴🚴🚴!  
 * I am super interest in MLOps and Devops best practice, such as CI/CD/CT ♾️ to automate deploy, evaluate and train the ML model in production level.  
