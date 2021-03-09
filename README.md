@@ -7,7 +7,7 @@ I'm currently working at Blockfint as Technical and Business Analyst on energy t
 <a href="https://www.linkedin.com/in/korntewin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://korntewin-b.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>  
 
-### Interest and hobby  <img align="right" width="280" height="280" src="https://lh3.googleusercontent.com/j1jwvPLzxqRdlo6HFttzPcdzWrqfU0zVo_LjIcsn-3AIf1q30Pawi8D8NLmBuAFmihLb3gJ10XIoNg8EQfe73mPZ-wOk2TSNx9opgFsoa8mOLcYvwHAw-93WmQ7RsHROv2QkMaDEDRC01pqY18Lf6RCT_7qv7BeoHB2lid6m-lt8QTc-JI3tL9WsCG48FtRkiR9EAlbKLY6NGWK-FeW92pP--6QBpAYEI0DTNhh314E3YVLFYLcq3Z1Z32tA39bsqGELHV8vyW40R-56JmVbGdSGYnJwl-JZ1eSQMhPxZ8qW0zaOCt4O6O9tfQ0gB8_FrtVoi6ToVqcHumKwu3Le_cimOZ3M9-9W_7o1c5rGNAiz6tLG_eoRSmJfctDJkV-dP0VUXhtIhxsaEzP20VvcOdGG4xjP1hG2lVLqArGDRWENyxB50roTQIBR1dWOng-xgLAi5GwcdTp4KwPpCb-GQunuuInPn-XQFfEVml1WPHJi7YlSQLgdAzyiEhAz-4N9vjpO9OQweaVHd4GSiEXh8TQnXWiYqouZGS9Gdowsz570xiy9I5nzB9-nrwLsMLSTiV1bP8yLJuiVzevW3IDvzev8fzk9-yYMpSVDLnuYkXXUru_I6HAt2sMkDuvRqiLvah2PfTeKjLZfqiJuUCiEBwc_haseOxitfehoOyHEN6jLCU8OFi0q7_Wn71iDdQ=w1372-h1378-no?authuser=2">
+### Interest and hobby  <img align="right" width="280" height="280" src="https://drive.google.com/uc?export=view&id=15FHRndMrZXdj9ZUsUH69TgGcCu-NUHcb">
 
 * I love biking with my favourite folding bike `dahon route`. Actually, I ride forth and back to working office around 20 km per day 🚴🚴🚴!  
 * I am super interest in MLOps and Devops best practice, such as CI/CD/CT ♾️ to automate deploy, evaluate and train the ML model in production level.  
