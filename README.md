@@ -10,7 +10,7 @@ I'm a Machine Learning Engineer at Thinking Machines with a passion for technolo
 - 🚀 Study courses on MOOCs and reading tech blog whenever possible to keep updating new technologies!
 - 🕹 Play console games on playstation 4 & 5 ​🎮 
   
-### My Cloud Certificates
+### My Certificates!
 <a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile" target="_blank" rel="noopener noreferrer">
   <img align="center" height="170" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
 </a>
@@ -21,6 +21,10 @@ I'm a Machine Learning Engineer at Thinking Machines with a passion for technolo
 
 <a href="https://google.accredible.com/34e8fd91-a68a-4325-83e0-fdea8c1e3d44" target="_blank" rel="noopener noreferrer">
   <img align="center" height="170" src="https://templates.images.credential.net/16590189412502689960209276019161.png" />
+</a>
+
+<a href="https://www.credential.net/b03843b4-2031-45d3-8c07-3173c738be57#gs.50gc92" target="_blank" rel="noopener noreferrer">
+  <img align="center" height="170" src="https://templates.images.credential.net/16589346213183572350230433330388.png" />
 </a>
 
 
