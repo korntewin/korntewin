@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-Welcome to my GitHub! 🙏 I’m Korn, a Machine Learning Engineer at Siam Commercial Bank (SCB), where I specialize in Big Data & Machine Learning. I transform multi-TB datasets into streamlined pipelines with Rust 🦀, Python 🐍 & Dagster, then automate deployments with CI/CD ♾️ across cloud platforms (AWS EKS, Azure AKS, GCP).
+Welcome to my GitHub! 🙏 I’m Korn, a Software Engineer at Siam Commercial Bank (SCB), where I specialize in Big Data & Machine Learning. I transform multi-TB datasets into streamlined pipelines with Rust 🦀 & Python 🐍, then automate deployments with CI/CD ♾️ across cloud platforms (AWS EKS, Azure AKS, GCP).
 
 ### What I’m up to:
+- 🛠 **Fullstack**: APIs with FastAPI & Actix-web, UIs with Next.js & React.
 - 🤖 **ML & MLOps**: Building, deploying & monitoring models at scale on Databricks & Kubernetes.  
 - 📊 **Big Data & Pipelines**: Crafting SQL & PySpark workflows to wrangle terabytes of data.  
-- 🛠 **Backend & Frontend**: APIs with FastAPI & Actix-web, UIs with Next.js & React.  
 - ☁️ **Cloud & Infra**: Terraform, Jenkins, Kubernetes, FluxCD & Cloudflared for rock-solid infrastructure.  
 - 🦀 **Programming**: Pro in Rust, Python & TypeScript.  
 - λ **Functional Programming & Distributed Systems**: Embracing immutability & higher-order functions for elegant code.  
@@ -19,6 +19,7 @@ Feel free to explore my repos and reach out:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/korntewin)  
 - 📝 [Blog](https://korntewin-b.medium.com)  
 - 🌐 [Portfolio](https://korntewin.github.io/intro-website)    
+
 ### My Certificates!
 <a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile" target="_blank" rel="noopener noreferrer">
   <img align="center" height="170" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
