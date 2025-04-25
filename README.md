@@ -1,15 +1,24 @@
 ### Hello there 👋
-#### Welcome to my github profile :pray:
-I'm a Machine Learning Engineer at Thinking Machines with a passion for technology and innovation. My interests span across several exciting areas:
 
-### Interest and hobby
+Welcome to my GitHub! 🙏 I’m Korn, a Machine Learning Engineer at Siam Commercial Bank (SCB), where I specialize in Big Data & Machine Learning. I transform multi-TB datasets into streamlined pipelines with Rust 🦀, Python 🐍 & Dagster, then automate deployments with CI/CD ♾️ across cloud platforms (AWS EKS, Azure AKS, GCP).
 
-- 🤖 Machine Learning: As an ML enthusiast, I explore cutting-edge algorithms, neural networks, and deep learning architectures. Solving real-world problems using data-driven approaches excites me. I am also super interest in MLOps and Devops best practice, such as CI/CD/CT ♾️ to automate deploy, evaluate and train the ML model in production level. 
-- 🦾 IoT (Internet of Things): I find the convergence of physical devices and digital technologies fascinating. The ability to connect everyday objects to the internet opens up endless possibilities for automation, data collection, and smart decision-making. Please follow my project at [this website](yolo.crypto-bot-gcp.trade) for Object Detection with YOLOv8 rendering on client-side (your browser) using Rust's WebAssembly!
-- λ Functional Programming & Big Data: I believe that functional programming paradigms can lead to more robust, maintainable, and scalable software. The elegance of immutability, higher-order functions, and declarative code resonates with me. Furthermore, the Functional Programming Patterns makes the distributed programming easy! The abstraction of developing single-cpu programming and distributed computing programming over 1,000 CPU cores are the same!
-- 🚀 Study courses on MOOCs and reading tech blog whenever possible to keep updating new technologies!
-- 🕹 Play console games on playstation 4 & 5 ​🎮 
-  
+### What I’m up to:
+- 🤖 **ML & MLOps**: Building, deploying & monitoring models at scale on Databricks & Kubernetes.  
+- 📊 **Big Data & Pipelines**: Crafting SQL & PySpark workflows to wrangle terabytes of data.  
+- 🛠 **Backend & Frontend**: APIs with FastAPI & Actix-web, UIs with Next.js & React.  
+- ☁️ **Cloud & Infra**: Terraform, Jenkins, Kubernetes, FluxCD & Cloudflared for rock-solid infrastructure.  
+- 🦀 **Programming**: Pro in Rust, Python & TypeScript.  
+- λ **Functional Programming & Distributed Systems**: Embracing immutability & higher-order functions for elegant code.  
+
+### More about me:
+- 🚀 Self-starter: Always learning new tech via MOOCs, tech blogs & open-source contributions (e.g., TensorFlow).  
+- 🎮 Gamer at heart: PS4/5 sessions & horror movie marathons (Netflix & HBO).  
+- 🐱 Proud cat dad: My white furball keeps me company during late-night coding.  
+
+Feel free to explore my repos and reach out:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/korntewin)  
+- 📝 [Blog](https://korntewin-b.medium.com)  
+- 🌐 [Portfolio](https://korntewin.github.io/intro-website)    
 ### My Certificates!
 <a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile" target="_blank" rel="noopener noreferrer">
   <img align="center" height="170" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
