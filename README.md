@@ -1,6 +1,4 @@
-### Hello there 👋
-
-Welcome to my GitHub! 🙏 I’m Korn, a Software Engineer at Siam Commercial Bank (SCB), where I specialize in Big Data & Machine Learning. I transform multi-TB datasets into streamlined pipelines with Rust 🦀 & Python 🐍, then automate deployments with CI/CD ♾️ across cloud platforms (AWS EKS, Azure AKS, GCP).
+Welcome to my GitHub profile! 🙏 I’m Korn, a Software Engineer specialized in Big Data & Machine Learning. I have an experience processing big data of multi-TB datasets with **Pyspark**, Full-Stack development with **Next.js**, **🦀  Rust**, and **🐍 Python**, automate deployments with CI/CD across cloud platforms (AWS EKS, Azure AKS, GCP).
 
 ### What I’m up to:
 - 🛠 **Fullstack**: APIs with FastAPI & Actix-web, UIs with Next.js & React.
@@ -16,11 +14,16 @@ Welcome to my GitHub! 🙏 I’m Korn, a Software Engineer at Siam Commercial Ba
 - 🐱 Proud cat dad: My white furball keeps me company during late-night coding.  
 
 Feel free to explore my repos and reach out:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/korntewin)  
-- 📝 [Blog](https://korntewin-b.medium.com)  
-- 🌐 [Portfolio](https://korntewin.github.io/intro-website)    
+- 🔗 [LinkedIn]  
+- 📝 [Blog]
+- 🌐 [Portfolio]
 
 ### My Certificates!
+
+<a href="https://www.credly.com/badges/7a9f3c8e-e867-4263-ba8a-533554a78ba0/public_url" target="_blank" rel="noopener noreferrer">
+  <img align="center" height="170" src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" />
+</a>
+
 <a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile" target="_blank" rel="noopener noreferrer">
   <img align="center" height="170" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
 </a>
@@ -42,7 +45,7 @@ Feel free to explore my repos and reach out:
 | Language                                                                                                                                                                                                                       | Frameworks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">                                                                                                                             | <img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/icon/web-assembly-icon-32px.png?raw=true"/> <img src="https://img.shields.io/badge/Candle-orange" height="25px"/> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" height="25px" width="auto"> <img src="https://actix.rs/img/logo.png" height="25px"> **Actix**                                                                                                                                                                                                                                                                                        |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                                                                                                                         | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="25px" style="background-color:white"> <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" height="25px" style="background-color:black"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://pytorch.org/assets/images/logo-white.svg" height="25px"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30px"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height= "25px"> **huggingface** |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                                                                                                                         | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="25px" style="background-color:white"> <img src="https://th.bing.com/th/id/R.db2c9b70a678e1ae2f45289ab0eddb27?rik=Sj7N%2feiHkhA6lg&pid=ImgRaw&r=0" height="25px" style="background-color:black"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://pytorch.org/assets/images/logo-white.svg" height="25px"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30px"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height= "25px"> **huggingface** |
 | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/🐻-ZUSTAND-blue" height="25px"/>                                                                                                                                                                                                                                                                                                     |
 
 
@@ -50,7 +53,7 @@ Feel free to explore my repos and reach out:
 ![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
-### My Github Stats  
+### My Github Stats
   
 <a href="https://github-readme-stats.vercel.app/api?username=korntewin&show_icons=true&theme=dracula">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=korntewin&show_icons=true&theme=dracula" />
@@ -71,17 +74,6 @@ Feel free to explore my repos and reach out:
     <img src="https://img.shields.io/badge/Self_Introduction-Website-blue">
 </a>
 
-<!--
-**korntewin/korntewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin]: https://www.linkedin.com/in/korntewin
+[Blog]: https://korntewin-b.medium.com
+[Portfolio]: https://korntewin.github.io/intro-website
