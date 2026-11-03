@@ -1,79 +1,107 @@
-Welcome to my GitHub profile! 🙏 I’m Korn, a Software Engineer specialized in Big Data & Machine Learning. I have an experience processing big data of multi-TB datasets with **Pyspark**, Full-Stack development with **Next.js**, **🦀  Rust**, and **🐍 Python**, automate deployments with CI/CD across cloud platforms (AWS EKS, Azure AKS, GCP).
+<div align="center">
 
-### What I’m up to:
-- 🛠 **Fullstack**: APIs with FastAPI & Actix-web, UIs with Next.js & React.
-- 🤖 **ML & MLOps**: Building, deploying & monitoring models at scale on Databricks & Kubernetes.  
-- 📊 **Big Data & Pipelines**: Crafting SQL & PySpark workflows to wrangle terabytes of data.  
-- ☁️ **Cloud & Infra**: Terraform, Jenkins, Kubernetes, FluxCD & Cloudflared for rock-solid infrastructure.  
-- 🦀 **Programming**: Pro in Rust, Python & TypeScript.  
-- λ **Functional Programming & Distributed Systems**: Embracing immutability & higher-order functions for elegant code.  
+  <img src="assets/profile-banner.svg" width="100%" alt="Hi, I'm Korn — Machine Learning Engineer at LMWN. Production ML, Rust, Bevy, and systems engineering." />
 
-### More about me:
-- 🚀 Self-starter: Always learning new tech via MOOCs, tech blogs & open-source contributions (e.g., TensorFlow).  
-- 🎮 Gamer at heart: PS4/5 sessions & horror movie marathons (Netflix & HBO).  
-- 🐱 Proud cat dad: My white furball keeps me company during late-night coding.  
+  <br />
 
-Feel free to explore my repos and reach out:
-- 🔗 [LinkedIn]  
-- 📝 [Blog]
-- 🌐 [Portfolio]
+  **Machine Learning Engineer @ LMWN** · **Rust enthusiast** 🦀 · **Bevy game dev** 🎮 · **Trading bot tinkerer** 📈
 
-### My Certificates!
+  <br />
 
-<a href="https://www.credly.com/badges/7a9f3c8e-e867-4263-ba8a-533554a78ba0/public_url" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="170" src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" />
+  <a href="https://korntewin.github.io/intro-website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-127C77?style=flat-square&logo=astro&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/korntewin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://korntewin-b.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-171717?style=flat-square&logo=medium&logoColor=white" /></a>
+
+</div>
+
+## 👋 A little about me
+
+I'm **Korn**, a machine learning engineer at **LMWN** who enjoys the intersection of **production ML, software engineering, and systems design**.
+
+I like making ML systems not only accurate, but also **fast, efficient, and reliable in production**. My work and interests span model serving, large-scale data processing, backend systems, and cloud infrastructure.
+
+Beyond my day job, you'll probably find me exploring **Rust**, making games with **[Bevy](https://bevyengine.org/)**, or experimenting with **crypto trading bots**.
+
+---
+
+## ✍️ Featured writing: RIIR — Go → Rust for ML prediction
+
+<a href="https://korntewin.github.io/intro-website/blog/riir-rust-prediction-service/">
+  <img src="https://korntewin.github.io/intro-website/blog/figures/riir-cover.png" alt="RIIR: Rewriting a production ML prediction service from Go to Rust" width="100%" />
 </a>
 
-<a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="170" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
-</a>
+**[RIIR: Rewriting a Production ML Prediction Service from Go to Rust →](https://korntewin.github.io/intro-website/blog/riir-rust-prediction-service/)**
 
-<a href="https://google.accredible.com/0bc42dee-895c-4e69-a924-8640cdfe01fd" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="170" src="https://templates.images.credential.net/16590181582433100721069374350922.png" />
-</a>
+A behind-the-scenes engineering story from **LMWN**: how rethinking memory layout, data movement, preprocessing, and concurrency helped our production recommendation ranker use fewer resources and respond faster.
 
-<a href="https://google.accredible.com/34e8fd91-a68a-4325-83e0-fdea8c1e3d44" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="170" src="https://templates.images.credential.net/16590189412502689960209276019161.png" />
-</a>
+| **5.4×** | **2.4×** | **1.9×** |
+| :---: | :---: | :---: |
+| Lower max pod CPU usage | Better P99 server latency | Lower max pod memory usage |
 
-<a href="https://www.credential.net/b03843b4-2031-45d3-8c07-3173c738be57#gs.50gc92" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="170" src="https://templates.images.credential.net/16589346213183572350230433330388.png" />
-</a>
+<sub>Measured in an 18-hour production A/B test with evenly split traffic. Figures are median per-minute Go/Rust ratios for this workload, not a general claim that Rust is always faster.</sub>
 
+**Under the hood:** Rust · Apache Arrow · Polars · ONNX Runtime · Memory layout · Concurrency
 
-### Favourite tech stacks and programming languages  
-| Language                                                                                                                                                                                                                       | Frameworks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">                                                                                                                             | <img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/icon/web-assembly-icon-32px.png?raw=true"/> <img src="https://img.shields.io/badge/Candle-orange" height="25px"/> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" height="25px" width="auto"> <img src="https://actix.rs/img/logo.png" height="25px"> **Actix**                                                                                                                                                                                                                                                                                        |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                                                                                                                         | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="25px" style="background-color:white"> <img src="https://th.bing.com/th/id/R.db2c9b70a678e1ae2f45289ab0eddb27?rik=Sj7N%2feiHkhA6lg&pid=ImgRaw&r=0" height="25px" style="background-color:black"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://pytorch.org/assets/images/logo-white.svg" height="25px"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30px"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height= "25px"> **huggingface** |
-| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/🐻-ZUSTAND-blue" height="25px"/>                                                                                                                                                                                                                                                                                                     |
+**[Read the engineering deep dive →](https://korntewin.github.io/intro-website/blog/riir-rust-prediction-service/)**
 
+---
 
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-### My Github Stats
-  
-<a href="https://github-readme-stats.vercel.app/api?username=korntewin&show_icons=true&theme=dracula">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=korntewin&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=korntewin&layout=compact">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korntewin&layout=compact" />
-</a>
-  
-### Please follow me on  
+## 🚀 Selected projects
 
-<a href="https://www.linkedin.com/in/korntewin/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
-</a>
-<a href="https://korntewin-b.medium.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>  
-<a href="https://korntewin.github.io/intro-website/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Self_Introduction-Website-blue">
-</a>
+| Project | What's interesting |
+| :--- | :--- |
+| **[YOLOv8 × Rust WASM](https://github.com/korntewin/yolo-wasm)** | Client-side object detection with Rust, Candle, WebAssembly, and React. |
+| **[YOLOv8 × Yew](https://github.com/korntewin/yolo-wasm-yew)** | A Rust-first, browser-based ML inference experiment using Yew and WASM. |
+| **[GPT Tokenizer Analyzer](https://github.com/korntewin/gpt-tkn-analyzer)** | A closer look at multilingual representation and tokenization bias. |
+| **[Portfolio & Engineering Blog](https://github.com/korntewin/intro-website)** | My portfolio, technical writing, and engineering notes — built with Astro and Svelte. |
 
-[Linkedin]: https://www.linkedin.com/in/korntewin
-[Blog]: https://korntewin-b.medium.com
-[Portfolio]: https://korntewin.github.io/intro-website
+---
+
+## 🛠️ Tools I reach for
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**ML, data & systems**
+
+PyTorch · ONNX Runtime · Apache Arrow · Polars · PySpark · Databricks · FastAPI · Actix Web
+
+**Cloud & infrastructure**
+
+Kubernetes · Docker · Terraform · AWS · Azure · GCP · CI/CD
+
+---
+
+## 🧪 After hours
+
+- **🦀 Rust & performance engineering** — Exploring lower-level systems, concurrency, and efficient software.
+- **🎮 Game development with [Bevy Engine](https://bevyengine.org/)** — Learning and building with Rust's data-driven Entity Component System (ECS).
+- **📈 Crypto trading bots** — Experimenting with algorithmic strategies, market data, and automation.
+
+I like building things that blend **performance, creativity, and curiosity**.
+
+<details>
+<summary><b>🏅 Certificates & credentials</b> (click to expand)</summary>
+<br />
+
+<a href="https://www.credly.com/badges/7a9f3c8e-e867-4263-ba8a-533554a78ba0/public_url"><img height="105" alt="Credly credential" src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" /></a>
+<a href="https://www.credly.com/badges/039ba124-fcf5-4fbf-b4b5-de7817f1d675/linked_in_profile"><img height="105" alt="Credly credential" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" /></a>
+<a href="https://google.accredible.com/0bc42dee-895c-4e69-a924-8640cdfe01fd"><img height="105" alt="Google credential" src="https://templates.images.credential.net/16590181582433100721069374350922.png" /></a>
+<a href="https://google.accredible.com/34e8fd91-a68a-4325-83e0-fdea8c1e3d44"><img height="105" alt="Google credential" src="https://templates.images.credential.net/16590189412502689960209276019161.png" /></a>
+<a href="https://www.credential.net/b03843b4-2031-45d3-8c07-3173c738be57#gs.50gc92"><img height="105" alt="Credential" src="https://templates.images.credential.net/16589346213183572350230433330388.png" /></a>
+
+</details>
+
+---
+
+<div align="center">
+
+**Build. Measure. Learn. Repeat.**
+
+[Portfolio](https://korntewin.github.io/intro-website/) · [Engineering blog](https://korntewin.github.io/intro-website/blog/riir-rust-prediction-service/) · [LinkedIn](https://www.linkedin.com/in/korntewin/) · [Medium](https://korntewin-b.medium.com/)
+
+</div>
