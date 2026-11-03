@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Korn — Machine Learning Engineer at LMWN</title>
+  <desc id="desc">Dark navy engineering-themed banner with mint and blue accents, highlighting production ML, Rust, and Bevy.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1323"/>
+      <stop offset="100%" stop-color="#10283A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1D8D89" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#1D8D89" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#95C9C9" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="330" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <circle cx="1006" cy="150" r="300" fill="url(#glow)"/>
+    <path d="M660 340 C815 100 943 391 1240 75" fill="none" stroke="#3CBCA9" stroke-opacity=".15" stroke-width="3"/>
+    <path d="M725 346 C842 145 1036 321 1220 130" fill="none" stroke="#73A4F8" stroke-opacity=".12" stroke-width="2"/>
+    <rect x="48" y="41" width="8" height="8" rx="2" fill="#75E5C8"/>
+    <text x="70" y="49" fill="#98AFC1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="2.1">KORNTEWIN / ENGINEERING JOURNAL</text>
+    <text x="48" y="145" fill="#F7FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="750" font-size="57">Hi, I'm Korn<tspan fill="#7CE5CC">.</tspan></text>
+    <text x="50" y="185" fill="#CCD9E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Machine Learning Engineer <tspan fill="#7CE5CC">@ LMWN</tspan></text>
+    <path d="M50 218H615" stroke="#345468" stroke-width="1"/>
+    <text x="50" y="251" fill="#A7C1D1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing=".25">PRODUCTION ML  /  RUST  /  BEVY  /  SYSTEMS</text>
+    <text x="50" y="291" fill="#6F96A6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Build. Measure. Learn. Repeat.</text>
+    <rect x="821" y="66" width="324" height="211" rx="17" fill="#0D1B2D" stroke="#3C6675" stroke-opacity=".8" stroke-width="1.2"/>
+    <rect x="822" y="67" width="322" height="38" rx="16" fill="#192D3E"/>
+    <path d="M822 104H1144" stroke="#355367" stroke-width="1"/>
+    <circle cx="847" cy="87" r="5" fill="#EF7B84"/>
+    <circle cx="866" cy="87" r="5" fill="#F2C77B"/>
+    <circle cx="885" cy="87" r="5" fill="#7CE5CC"/>
+    <text x="1117" y="93" text-anchor="end" fill="#92AABD" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">korn.rs</text>
+    <text x="849" y="142" fill="#6B98B3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">// what I build</text>
+    <text x="849" y="176" fill="#D9E6F3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18">ml <tspan fill="#7CE5CC">→</tspan> production</text>
+    <text x="849" y="207" fill="#D9E6F3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18">rust <tspan fill="#7CE5CC">+</tspan> performance</text>
+    <text x="849" y="238" fill="#D9E6F3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18">bevy <tspan fill="#7CE5CC">+</tspan> creativity</text>
+    <rect x="48" y="317" width="1100" height="1" fill="#436F7D" opacity=".45"/>
+  </g>
+</svg>
